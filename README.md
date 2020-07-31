@@ -34,13 +34,13 @@ DOWNLOAD LINKS SMP/SMP+:
 =================================
 
 SMP (SmartMinerPRO) - version without pre-installed miners and .bat files
-- SMP.rar (50.1 MB): https://mega.nz/file/VA1G1KgK#i8fZbwm_YK80kem4dHZL8x1KVET-p_-DYIgs6ZPd1f0
+- SMP.rar (50.1 MB): https://mega.nz/file/uFc1WQgS#LntpZecu94eMSwPnLQgOHvfbA4Pnxvorvr_2P6UvfWE
 
 SMP+ (SmartMinerPRO) - version with a full package of pre-installed miners and .bat files + instructions
-- SMP+.rar (533.4 MB): https://mega.nz/file/tA0mgY5Q#RHwInzyqGMd5iOY4eMEBVNKl6l6kvI2FizOeFN7Dnx0
+- SMP+.rar (533.4 MB): https://mega.nz/file/OBFxGSpa#prU2ALky-5Z3yWjwdwvZ1cfxdreffQCMyp38TFWz7cE
 
 Miners Package - This is a complete package of all miners that support SMP+
-- Miners Package [password:SMP+] (483.4 MB): https://mega.nz/file/tItj1YiJ#k-ky9tvyKA-8i1qhvwRdn21iZzVQvm_M7QTA45UDoE0
+- Miners Package [password:SMP+] (483.4 MB): https://mega.nz/file/yVMxwCLL#xsFyQcCeo91Qb26umxAyKl6FfSfg7qu9MaNlH8uSFl4
 
 Release Note:
 -------------
