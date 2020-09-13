@@ -25,7 +25,7 @@ Key Features SMP:
       • 🔸 Watch-feature - automatically restart miner if crashed or hanged.
       • 🔸 Much more..
       
-      DOWNLOAD LINKS SMP/SMP+:
+ DOWNLOAD LINKS SMP/SMP+:
 =================================
 
 MEGA: https://mega.nz/folder/aIdVBAQA#8fYOHtGKC9c4-sfuLd0ptA
