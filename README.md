@@ -24,17 +24,16 @@ Key Features SMP:
       • 🔸 Integrated benchmarking tool. Run it only once before you start mining and after every hardware/driver/software upgrade.
       • 🔸 Watch-feature - automatically restart miner if crashed or hanged.
       • 🔸 Much more..
+      
+      DOWNLOAD LINKS SMP/SMP+:
+=================================
+
+MEGA: https://mega.nz/folder/aIdVBAQA#8fYOHtGKC9c4-sfuLd0ptA
 
 Screenshots GUI SMP+:
 ===============================
 
 <img src="SMP + v1.0.PNG" /> <img src="SMP+ miners.PNG" />
-
-DOWNLOAD LINKS SMP/SMP+:
-=================================
-
-GitHub: https://github.com/MiningSoftware/SMP
-MEGA: https://mega.nz/folder/aIdVBAQA#8fYOHtGKC9c4-sfuLd0ptA
 
 Release Note:
 -------------
