@@ -3,8 +3,11 @@ SmartMinerPRO (SMP/SMP+) - multi crypto mining panel
 
  DOWNLOAD LINKS SMP/SMP+:
 =================================
+
 SmartMinerPRO (53.99 MB): https://fex.net/s/7aydae1
+---------------------------
 SmartMinerPRO+ (478.44 MB): https://fex.net/s/smlnnlr
+-----------------------------
 
 SMP + is a software product developed by SmartMiner.PRO with a simple and convenient GUI. This version of SMP + was created to work with each cryptocurrency based on these algorithms, including Bitcoin. Ethereum, Ethereum Classic, Sumocoin, Grin, Monero, Ravencoin and many others. This version of SMP + runs on Windows with AMD CPUs and GPUs or Nvidia and ASIC / FPGA.
 
