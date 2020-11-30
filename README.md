@@ -1,12 +1,9 @@
-SmartMinerPRO (SMP/SMP+) - multi crypto mining panel (GPU/CPU)
+SmartMinerPRO (SMP/SMP+) - multi crypto mining panel (GPU/CPU/ASIC/FPGA)
 ========================
-
-Screenshots GUI SMP+:
-=====================
 <img src="SMP + v1.0.PNG" /> <img src="SMP+ miners.PNG" />
 
 DOWNLOAD LIUNKS: - https://github.com/MiningSoftware/SmartMinerPRO/releases
-================
+----------------
 
 SmartMinerPRO (SMP/SMP+) is a software product developed by SmartMiner.PRO with a simple and convenient GUI. This version of SMP + was created to work with each cryptocurrency based on these algorithms, including Bitcoin. Ethereum, Ethereum Classic, Sumocoin, Grin, Monero, Ravencoin and many others. This version of SMP + runs on Windows with AMD CPUs and GPUs or Nvidia and ASIC / FPGA.
 
@@ -34,16 +31,16 @@ Key Features SMP:
       • 🔸 Much more..
 
 How to start
-=================================
+=============
 
 1. Download SmartMinerPRO+
 2. Unpack the archive
 3. Run SMP.exe/SMP+.exe
 
-IMPORTANT! For your mining equipment, you must install the necessary dependencies. Since each miner program has its own requirements for work. For reference, you can refer to the root directory in the miner’s folder.
+IMPORTANT! For your mining equipment, you must install the necessary dependencies. Since each miner program has its own requirements for work. For reference, you can refer to the root directory in the miner’s folder. version of SmartMinerPRO Lite, there are no built-in miners and config files for coins. You need to add them manually to the "Miners" folder.
 
 System requirements
-=================================
+=====================
 
 + WINDOWS XP,7,8,10 or later (x64)
 + CPU (x64/x86/ARM) For CPU mining a modern CPU with SSE2 support
@@ -61,35 +58,35 @@ Note: .NET Framework 4.8 or higher and Microsoft Visual C++ Redistributable 2015
 Full list Support miners SMP+:
 ==============================
 
-! Please note that the list of supported miners will be expanded with subsequent versions of the SMP +
-
-+ bminer-lite-v16.2.0
-+ ccminer-2.3.1-cuda10
-+ Nanominer-1.9.5
-+ Claymore_v15.0
-+ cpuminer-opt-3.12.4
-+ CryptoDredge_0.22.0
-+ ethminer 0.19.0-alpha.0
-+ EWB_v0.6 
-+ Gminer_2.09
-+ kawpowminer-1.2.3
-+ lolMiner_v0.9.8
-+ miniZ_v1.5t2_cuda10
-+ NBMiner_30.2
-+ PhoenixMiner_5.0e
++ bminer
++ ccminer
++ Nanominer
++ Claymore
++ cpuminer-opt
++ CryptoDredge
++ ethminer 
++ EWB
++ Gminer
++ kawpowminer
++ lolMiner
++ miniZ_cuda
++ NBMiner
++ PhoenixMiner
 + Progpowminer
-+ SRBMiner-CN-V1-9-3
-+ SRBMiner-Multi-0-4-3
-+ TeamRedMiner-v0.7.3
-+ T-Rex 0.15.4
-+ TT-Miner-5.0.1
-+ xmrig-5.5.1
-+ xmr-stak-2.10.8
-+ z-enemy 2.5
-+ zm_0.6.2
++ SRBMiner
++ SRBMiner-Multi
++ TeamRedMiner
++ T-Rex
++ TT-Miner
++ xmrig
++ xmr-stak
++ z-enemy
++ zm
+
+! Please note that the list of supported miners will be expanded with subsequent versions of the SMP.
 
 How to use
-================================
+===========
 
 1. At the first launch of SMP, select the coin to be mined
     • Optionally, you can choose what equipment will be used, according to the standard, all available CPU / GPUs are used.
@@ -111,13 +108,6 @@ You can thank the SMP + development team at the following addresses:
 - ZEC: t1TVRXgQmrgHHeaheYt9mFrqh1LZBJtrfiQ
 - LTC: LWtnQjnfJe9ALd3gYwPGUxAej5JGMLPsoK
 - RVN: RV8Tz58pZ6Q6fFn5LGGN8hQsUoPzJC1vMi
-
-Release Note:
--------------
-
-v1.0.1 - SMP + v1.0.1 is a smart multi-currency cryptocurrency miner for CPU / GPU / ASIC / FPGA. Which itself finds the available equipment and selects the optimal settings. SMP + allows you to connect / disconnect / stop / start one or more farms in one click. During the initial start-up, in the “Quick Start” step, you can select a separate algorithm for each farm. 
-
-+OS Support: Windows (64 bit)
 
 Command line options
 =====================
