@@ -29,12 +29,6 @@ Screenshots GUI SMP+:
 
 <img src="SMP + v1.0.PNG" /> <img src="SMP+ miners.PNG" />
 
-Release Note:
--------------
-
-SMP + v1.0.1 is a smart multi-currency cryptocurrency miner for CPU / GPU / ASIC / FPGA. Which itself finds the available equipment and selects the optimal settings. SMP + allows you to connect / disconnect / stop / start one or more farms in one click. During the initial start-up, in the “Quick Start” step, you can select a separate algorithm for each farm. 
-
-! OS Support: Windows (64 bit).
 
 How to start
 =================================
@@ -114,6 +108,13 @@ You can thank the SMP + development team at the following addresses:
 - ZEC: t1TVRXgQmrgHHeaheYt9mFrqh1LZBJtrfiQ
 - LTC: LWtnQjnfJe9ALd3gYwPGUxAej5JGMLPsoK
 - RVN: RV8Tz58pZ6Q6fFn5LGGN8hQsUoPzJC1vMi
+
+Release Note:
+-------------
+
+v1.0.1 - SMP + v1.0.1 is a smart multi-currency cryptocurrency miner for CPU / GPU / ASIC / FPGA. Which itself finds the available equipment and selects the optimal settings. SMP + allows you to connect / disconnect / stop / start one or more farms in one click. During the initial start-up, in the “Quick Start” step, you can select a separate algorithm for each farm. 
+
++OS Support: Windows (64 bit)
 
 Command line options
 =====================
