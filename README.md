@@ -1,16 +1,13 @@
-SmartMinerPRO (SMP/SMP+) - multi crypto mining panel (GPU/CPU/ASIC/FPGA)
+SmartMinerPRO (SMP/SMP+) - multi crypto mining panel (GPU/CPU/ASIC/FPGA) 
 ========================
-<img src="SMP + v1.0.PNG" /> <img src="SMP+ miners.PNG" />
-
 SmartMinerPRO (SMP/SMP+) is a software product developed by SmartMiner.PRO with a simple and convenient GUI. This version of SMP + was created to work with each cryptocurrency based on these algorithms, including Bitcoin. Ethereum, Ethereum Classic, Sumocoin, Grin, Monero, Ravencoin and many others. This version of SMP + runs on Windows with AMD CPUs and GPUs or Nvidia and ASIC / FPGA.
 
-DOWNLOAD LIUNKS:
-----------------
-https://github.com/MiningSoftware/SmartMinerPRO/releases
+DOWNLOAD LINKS: https://github.com/MiningSoftware/SmartMinerPRO/releases
+---------------
+<img src="SMP + v1.0.PNG" /> <img src="SMP+ miners.PNG" />
 
-
-Key Features SMP:
-=================================
+Key Features SmartMinerPRO:
+===========================
 
       • 💎 Built-in miners: XMR-STAK & XMRIG, GMINER. T-REX, TeamRedMiner, CGMiner, T-Rex, NBMiner, Nanominer, PhoenixMiner, CCMiner, miniz, cpu miner, cpuminer-opt, Kadena Miner, Kawpowminer and many others.
       • 🖥 Works on all versions of Windows
@@ -31,16 +28,7 @@ Key Features SMP:
       • 🔸 Watch-feature - automatically restart miner if crashed or hanged.
       • 🔸 Much more..
 
-How to start
-=============
-
-1. Download SmartMinerPRO+
-2. Unpack the archive
-3. Run SMP.exe/SMP+.exe
-
-IMPORTANT! For your mining equipment, you must install the necessary dependencies. Since each miner program has its own requirements for work. For reference, you can refer to the root directory in the miner’s folder. version of SmartMinerPRO Lite, there are no built-in miners and config files for coins. You need to add them manually to the "Miners" folder.
-
-System requirements
+System requirements:
 =====================
 
 + WINDOWS XP,7,8,10 or later (x64)
@@ -56,8 +44,8 @@ Note: .NET Framework 4.8 or higher and Microsoft Visual C++ Redistributable 2015
 + Microsoft .NET Framework 4.8: https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net48-web-installer
 + Microsoft Visual C++ Redistributable 2015: https://www.microsoft.com/en-us/download/details.aspx?id=48145
 
-Full list Support miners SMP+:
-==============================
+Full list Support miners:
+==========================
 
 + bminer
 + ccminer
@@ -86,7 +74,16 @@ Full list Support miners SMP+:
 
 ! Please note that the list of supported miners will be expanded with subsequent versions of the SMP.
 
-How to use
+How to start:
+=============
+
+1. Download SmartMinerPRO+
+2. Unpack the archive
+3. Run SMP.exe/SMP+.exe
+
+IMPORTANT! For your mining equipment, you must install the necessary dependencies. Since each miner program has its own requirements for work. For reference, you can refer to the root directory in the miner’s folder. version of SmartMinerPRO Lite, there are no built-in miners and config files for coins. You need to add them manually to the "Miners" folder.
+
+How to use:
 ===========
 
 1. At the first launch of SMP, select the coin to be mined
@@ -98,19 +95,20 @@ How to use
 4. After replacing the values of the wallet and pool with yours, click "RUN"
 5. Then begins the extraction of coins
 
-DevFee & Donations
+DevFee & Donations:
 ===================
 
-SmartMinerPRO (SMP / SMP +) is completely free software. This does not apply to built-in programs for mining (miners).
+SmartMinerPRO (SMP/SMP +) is completely free software. This does not apply to built-in programs for mining (miners).
 
 You can thank the SMP + development team at the following addresses:
+
 - BTC: 197QDx1Sif2MVH29juDbbrErhBAkxMBXQX
 - ETH: 0xC16079Aeb717053cFb3F5Abb92fb55F81A3AD9C9
 - ZEC: t1TVRXgQmrgHHeaheYt9mFrqh1LZBJtrfiQ
 - LTC: LWtnQjnfJe9ALd3gYwPGUxAej5JGMLPsoK
 - RVN: RV8Tz58pZ6Q6fFn5LGGN8hQsUoPzJC1vMi
 
-Command line options
+Command line options:
 =====================
 
 Network:
