@@ -108,6 +108,10 @@ You can thank the SMP + development team at the following addresses:
 - ZEC: t1TVRXgQmrgHHeaheYt9mFrqh1LZBJtrfiQ
 - LTC: LWtnQjnfJe9ALd3gYwPGUxAej5JGMLPsoK
 - RVN: RV8Tz58pZ6Q6fFn5LGGN8hQsUoPzJC1vMi
+- XMR: 84onp1zgW99E1icbup9CxCgrBubkKna2o8UoRUA7DkqpHcC25LbPUbCUSW8fW89J5iM8CrsrVeZx3LHqJtGutbW3K9r1zyd
+- BNB: bnb1e60fxgdxv73c6r5kznz5xt35nnd2p6sh6ykaal
+- XRP: rXCwC7FRYaoHwCt9Ryn7DQSnHf5RCfYpp
+- DOGE: D98P5sAy5CVy8c3zDG5ACruCuKUqtSiVrz
 
 Command line options:
 =====================
