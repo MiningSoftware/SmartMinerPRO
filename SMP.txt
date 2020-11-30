@@ -3,9 +3,6 @@ SmartMinerPRO (SMP/SMP+) - multi crypto mining panel
 + SMP + is a software product developed by SmartMiner.PRO with a simple and convenient GUI. This version of SMP + was created to work with each cryptocurrency based on these algorithms:
 Bitcoin. Ethereum, Ethereum Classic, Sumocoin, Grin, Monero, Ravencoin and many others.  This version of SMP + runs on Windows with AMD CPUs and GPUs or Nvidia and ASIC / FPGA.
 
-
-
-
 How to start
 
 1. Download SmartMinerPRO+
@@ -15,10 +12,10 @@ How to start
 How to use
 
 1. At the first launch of SMP, select the coin to be mined
-    • Optionally, you can choose what equipment will be used, according to the standard, all available CPU / GPUs are used.
+    â€¢ Optionally, you can choose what equipment will be used, according to the standard, all available CPU / GPUs are used.
 2. Click "Start mining", in the mining parameters window, select the miner and the finished .bat file (coins \ pool)
-    • By default, safe recommended settings for increased profitability of mining are used.
+    â€¢ By default, safe recommended settings for increased profitability of mining are used.
 3. You can edit the .bat file to replace the vallet and floor values with your own by pressing the "EDIT" button.
-    • If desired, you can replace the parameters of the request, for this we recommend that you refer to the practical guide in the root folders of the miners.
+    â€¢ If desired, you can replace the parameters of the request, for this we recommend that you refer to the practical guide in the root folders of the miners.
 4. After replacing the values of the vallet and the floor with yours, click "RUN"
 5. Then begins the extraction of coins
