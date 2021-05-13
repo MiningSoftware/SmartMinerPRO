@@ -101,6 +101,7 @@ DevFee & Donations:
 
 SmartMinerPRO (SMP/SMP +) is completely free software. This does not apply to built-in programs for mining (miners).
 
+Telegram SMP+: https://t.me/SMPmining
 
 Command line options:
 =====================
