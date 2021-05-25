@@ -1,12 +1,14 @@
-SmartMinerPRO (SMP/SMP+) - multi crypto mining panel (GPU/CPU/ASIC/FPGA) 
-========================
+SmartMinerPRO (SMP/SMP+) - multi crypto mining panel for GPU/CPU/ASIC.
+=======================================================================
 
 SmartMinerPRO (SMP / SMP +) is a software product that finds the available hardware itself and selects the optimal settings. developed by SmartMiner.PRO with a simple and user-friendly graphical interface. This version of SMP + was created to work with every cryptocurrency based on these algorithms, including bitcoin. Ethereum, Ethereum Classic, Sumocoin, Grin, Monero, Ravencoin and many more. This version of SMP + works on Windows with AMD or Nvidia processors and GPUs and ASIC / FPGA. SMP + allows you to connect / disconnect / stop / start one or more farms with one click. During the initial startup, in the Quick Start phase, you can select a separate algorithm for each farm.
 
 DOWNLOAD LINKS: https://github.com/MiningSoftware/SmartMinerPRO/releases
 ---------------------------------------------------------------------------
+
 Telegram SMP+: https://t.me/SMPmining
 ---------------------------------------------
+
 <img src="SMP + v1.0.PNG" /> <img src="SMP+ miners.PNG" />
 
 Key Features SmartMinerPRO:
@@ -216,3 +218,11 @@ Misc:
       --title                   set custom console window title
       --no-title                disable setting console window title      
 
+DONATE:
+=======
+
+- BTC: bc1qmpdug4lkkz4kvw2gnrfx9hjgclcge9ytq0z0wl
+- ETH: 0xd5533d796302DA0Ec67a34eBB0Ba432B164a1CA5
+- XMR: 8BFHZwHteLf46VhuXdw9t8h3oEm1ajFxPeNdLLKsnLZjS5EJQL1dJpSCdYFAzty2S2UYd8G86YvioXLb3yXfPLVvN71u1XK
+- RVN: RV8Tz58pZ6Q6fFn5LGGN8hQsUoPzJC1vMi
+- LTC: ltc1q2c68a8spxap6j3nhjk09rem6zf75rahgu7s0gh
