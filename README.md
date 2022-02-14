@@ -6,9 +6,6 @@ SmartMinerPRO (SMP / SMP +) is a software product that finds the available hardw
 DOWNLOAD LINKS: https://github.com/MiningSoftware/SmartMinerPRO/releases
 ---------------------------------------------------------------------------
 
-Telegram SMP+: https://t.me/SMPmining
----------------------------------------------
-
 <img src="SMP + v1.0.PNG" /> <img src="SMP+ miners.PNG" />
 
 Key Features SmartMinerPRO:
