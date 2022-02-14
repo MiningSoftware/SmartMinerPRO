@@ -1,7 +1,7 @@
-SmartMinerPRO (SMP/SMP+) - multi crypto mining panel for GPU/CPU/ASIC.
+SmartMinerPRO (SMP+) - multi crypto mining panel for GPU/CPU/ASIC/FPGA.
 =======================================================================
 
-SmartMinerPRO (SMP / SMP +) is a software product that finds the available hardware itself and selects the optimal settings. developed by SmartMiner.PRO with a simple and user-friendly graphical interface. This version of SMP + was created to work with every cryptocurrency based on these algorithms, including bitcoin. Ethereum, Ethereum Classic, Sumocoin, Grin, Monero, Ravencoin and many more. This version of SMP + works on Windows with AMD or Nvidia processors and GPUs and ASIC / FPGA. SMP + allows you to connect / disconnect / stop / start one or more farms with one click. During the initial startup, in the Quick Start phase, you can select a separate algorithm for each farm.
+SmartMinerPRO (SMP+) is a software product that finds the available hardware itself and selects the optimal settings. developed by SmartMiner.PRO with a simple and user-friendly graphical interface. This version of SMP + was created to work with every cryptocurrency based on these algorithms, including bitcoin. Ethereum, Ethereum Classic, Sumocoin, Grin, Monero, Ravencoin and many more. This version of SMP + works on Windows with AMD or Nvidia processors and GPUs and ASIC / FPGA. SMP + allows you to connect / disconnect / stop / start one or more farms with one click. During the initial startup, in the Quick Start phase, you can select a separate algorithm for each farm.
 
 DOWNLOAD LINKS: https://github.com/MiningSoftware/SmartMinerPRO/releases
 ---------------------------------------------------------------------------
@@ -36,7 +36,7 @@ SmartminerPRO has shown high efficiency in mining such coins as Bitcoin, Ethereu
 System requirements:
 =====================
 
-+ WINDOWS XP,7,8,10 or later (x64)
++ WINDOWS XP,7,8,10 or later (x64) / LINUX / MAC OS
 + CPU (x64/x86/ARM) For CPU mining a modern CPU with SSE2 support
 + OpenCL for AMD GPUs. For AMD mining any AMD GPU with OpenCL support
 + CUDA for NVIDIA GPUs. For NVIDIA mining any NVIDIA GPU with Compute capability (SM) 3.0 or newer
@@ -53,10 +53,13 @@ Full list Support miners:
 ==========================
 
 + bminer
++ bzminer
 + ccminer
++ cgminer
 + Nanominer
 + Claymore
 + cpuminer-opt
++ CPU Miner-GR
 + CryptoDredge
 + ethminer 
 + EWB
@@ -65,17 +68,20 @@ Full list Support miners:
 + lolMiner
 + miniZ_cuda
 + NBMiner
++ NiceHashMiner
 + PhoenixMiner
 + Progpowminer
 + SRBMiner
 + SRBMiner-Multi
 + TeamRedMiner
-+ T-Rex
++ TeamBlackMiner
++ T-Rex miner
 + TT-Miner
 + xmrig
 + xmr-stak
 + z-enemy
 + zm
++ wildrig-multi
 
 ! Please note that the list of supported miners will be expanded with subsequent versions of the SMP.
 
