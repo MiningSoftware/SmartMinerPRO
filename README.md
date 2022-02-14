@@ -14,6 +14,9 @@ Telegram SMP+: https://t.me/SMPmining
 Key Features SmartMinerPRO:
 ===========================
 
+The miner is focused on CPUs, NVIDIA and AMD GPUs, it supports the most popular algorithms such as: Ethash, ProgPoW, KAWPOW, Equihash, CuckooCycle.
+SmartminerPRO has shown high efficiency in mining such coins as Bitcoin, Ethereum, Beam, Grin, Cortex, Bitcoin Gold, Ravencoin, Monero.
+
       • 💎 Built-in miners: XMR-STAK & XMRIG, GMINER. T-REX, TeamRedMiner, CGMiner, T-Rex, NBMiner, Nanominer, PhoenixMiner, CCMiner, miniz, cpu miner, cpuminer-opt, Kadena Miner, Kawpowminer and many others.
       • 🖥 Works on all versions of Windows
       • 📊 Over 50 of the best mining puols
