@@ -113,7 +113,7 @@ How to use:
 DevFee & Donations:
 ===================
 
-SmartMinerPRO (SMP/) is completely free software. This does not apply to built-in programs for mining (miners).
+SmartMinerPRO (SMP) is completely free software. This does not apply to built-in programs for mining (miners).
 
 
 Command line options:
