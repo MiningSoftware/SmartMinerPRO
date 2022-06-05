@@ -5,6 +5,7 @@ SmartMinerPRO (SMP+) is a software product that finds the available hardware its
 
  + WebSite SmartMinerPRO: http://smartminer.pro/
  + Official github developer: https://github.com/MiningSoftware/SmartMinerPRO
+ + Bitcointalk: https://bitcointalk.org/index.php?topic=5401073.0
 
 DOWNLOAD LINKS: https://github.com/MiningSoftware/SmartMinerPRO/releases
 ---------------------------------------------------------------------------
