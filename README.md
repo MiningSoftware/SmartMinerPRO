@@ -1,7 +1,7 @@
-SmartMinerPRO (SMP+) - multi crypto mining panel for GPU/CPU/ASIC/FPGA.
+SmartMinerPRO (SMP) - GUI multi crypto mining panel for GPU/CPU/ASIC/FPGA.
 =======================================================================
 
-SmartMinerPRO (SMP+) is a software product that finds the available hardware itself and selects the optimal settings. developed by SmartMiner.PRO with a simple and user-friendly graphical interface. This version of SMP + was created to work with every cryptocurrency based on these algorithms, including bitcoin. Ethereum, Ethereum Classic, Sumocoin, Grin, Monero, Ravencoin and many more. This version of SMP + works on Windows with AMD or Nvidia processors and GPUs and ASIC / FPGA. SMP + allows you to connect / disconnect / stop / start one or more farms with one click. During the initial startup, in the Quick Start phase, you can select a separate algorithm for each farm.
+SmartMinerPRO (SMP) is a software product that finds the available hardware itself and selects the optimal settings. developed by SmartMiner.PRO with a simple and user-friendly graphical interface. This version of SMP + was created to work with every cryptocurrency based on these algorithms, including bitcoin. Ethereum, Ethereum Classic, Sumocoin, Grin, Monero, Ravencoin and many more. This version of SMP + works on Windows with AMD or Nvidia processors and GPUs and ASIC / FPGA. SMP + allows you to connect / disconnect / stop / start one or more farms with one click. During the initial startup, in the Quick Start phase, you can select a separate algorithm for each farm.
 
  + WebSite SmartMinerPRO: http://smartminer.pro/
  + Official github developer: https://github.com/MiningSoftware/SmartMinerPRO
@@ -92,9 +92,9 @@ Full list Support miners:
 How to start:
 =============
 
-1. Download SmartMinerPRO+
-2. Unpack the archive
-3. Run SMP.exe/SMP+.exe
+1. Download SmartMinerPRO
+2. Unpack the archive .zip/.rar
+3. Run SmartMinerPRO.exe
 
 IMPORTANT! For your mining equipment, you must install the necessary dependencies. Since each miner program has its own requirements for work. For reference, you can refer to the root directory in the miner’s folder. version of SmartMinerPRO Lite, there are no built-in miners and config files for coins. You need to add them manually to the "Miners" folder.
 
@@ -113,7 +113,7 @@ How to use:
 DevFee & Donations:
 ===================
 
-SmartMinerPRO (SMP/SMP +) is completely free software. This does not apply to built-in programs for mining (miners).
+SmartMinerPRO (SMP/) is completely free software. This does not apply to built-in programs for mining (miners).
 
 
 Command line options:
