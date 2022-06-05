@@ -3,6 +3,9 @@ SmartMinerPRO (SMP+) - multi crypto mining panel for GPU/CPU/ASIC/FPGA.
 
 SmartMinerPRO (SMP+) is a software product that finds the available hardware itself and selects the optimal settings. developed by SmartMiner.PRO with a simple and user-friendly graphical interface. This version of SMP + was created to work with every cryptocurrency based on these algorithms, including bitcoin. Ethereum, Ethereum Classic, Sumocoin, Grin, Monero, Ravencoin and many more. This version of SMP + works on Windows with AMD or Nvidia processors and GPUs and ASIC / FPGA. SMP + allows you to connect / disconnect / stop / start one or more farms with one click. During the initial startup, in the Quick Start phase, you can select a separate algorithm for each farm.
 
+ + WebSite SmartMinerPRO: http://smartminer.pro/
+ + Official github developer: https://github.com/MiningSoftware/SmartMinerPRO
+
 DOWNLOAD LINKS: https://github.com/MiningSoftware/SmartMinerPRO/releases
 ---------------------------------------------------------------------------
 
