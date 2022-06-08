@@ -236,3 +236,5 @@ DONATE:
 - XMR: 8BFHZwHteLf46VhuXdw9t8h3oEm1ajFxPeNdLLKsnLZjS5EJQL1dJpSCdYFAzty2S2UYd8G86YvioXLb3yXfPLVvN71u1XK
 - RVN: RV8Tz58pZ6Q6fFn5LGGN8hQsUoPzJC1vMi
 - LTC: ltc1q2c68a8spxap6j3nhjk09rem6zf75rahgu7s0gh
+
+> ![SmartMinerPRO v1 2 0](https://user-images.githubusercontent.com/66119878/153803323-010897c9-ff82-40fc-9a8b-857426d227a7.jpg)
