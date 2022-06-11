@@ -6,9 +6,9 @@ SmartMinerPRO (SMP) is a software product that finds the available hardware itse
  + WebSite SmartMinerPRO: http://smartminer.pro/
  + Official github developer: https://github.com/MiningSoftware/SmartMinerPRO
  + Bitcointalk: https://bitcointalk.org/index.php?topic=5401073.0
+ + GitHub Releases: https://github.com/MiningSoftware/SmartMinerPRO/releases
 
-DOWNLOAD LINKS: https://github.com/MiningSoftware/SmartMinerPRO/releases
----------------------------------------------------------------------------
+**Download Link:** https://github.com/MiningSoftware/SmartMinerPRO/releases/download/SmartMinerPRO/SmartMinerPRO.rar
 
 <img src="SMP + v1.0.PNG" /> <img src="SMP+ miners.PNG" />
 
@@ -55,6 +55,17 @@ Note: .NET Framework 4.8 or higher and Microsoft Visual C++ Redistributable 2015
 
 Full list Support miners:
 ==========================
+
+SmartMinerPRO (SMP) supports a huge number of popular cryptocurrency miners, 
+any miner is connected in a simple way by installing it in this folder "you_file:/SmartMinerPRO/Miners".
+
+Just drop the folder with the miner here, set up your configuration files (.bat).
+You can also just use the ones you already have. 
+
+SmartMinerPRO automatically finds miners in the root folder by .exe 
+extensions and .bat configurations.
+
+In the GUI panel, they will appear in the drop-down list if you have done everything correctly.
 
 + bminer
 + bzminer
