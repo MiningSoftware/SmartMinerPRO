@@ -77,7 +77,7 @@ In the GUI panel, they will appear in the drop-down list if you have done everyt
 + CPU Miner-GR
 + CryptoDredge
 + ethminer 
-+ EWB
++ EWBF
 + Gminer
 + kawpowminer
 + lolMiner
@@ -95,7 +95,7 @@ In the GUI panel, they will appear in the drop-down list if you have done everyt
 + xmrig
 + xmr-stak
 + z-enemy
-+ zm
++ zmminer
 + wildrig-multi
 
 ! Please note that the list of supported miners will be expanded with subsequent versions of the SMP.
